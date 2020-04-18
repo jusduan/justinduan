@@ -11,7 +11,7 @@ body {
 body {
   line-height: calc(28 / 18);
   color: #323232;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 a {
@@ -32,14 +32,14 @@ a:focus {
 
 h1 {
   font-size: 28px;
-  display: inline-block; 
+  display: inline-block;
   color: #323232;
   margin-right: 20px;
   margin-bottom: 0px;
 }
 
 .header-links {
-  display: inline-block; 
+  display: inline-block;
   font-size: 16px;
   color: #828282;
 }
@@ -68,4 +68,3 @@ h1 {
   color: #888;
   width: 400px;
 }
-
