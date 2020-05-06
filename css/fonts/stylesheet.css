@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Archer';
+    src: url('Archer-Semibold.eot');
+    src: url('Archer-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('Archer-Semibold.woff2') format('woff2'),
+        url('Archer-Semibold.woff') format('woff'),
+        url('Archer-Semibold.ttf') format('truetype'),
+        url('Archer-Semibold.svg#Archer-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archer';
+    src: url('Archer-LightItalic.eot');
+    src: url('Archer-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Archer-LightItalic.woff2') format('woff2'),
+        url('Archer-LightItalic.woff') format('woff'),
+        url('Archer-LightItalic.ttf') format('truetype'),
+        url('Archer-LightItalic.svg#Archer-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Archer';
+    src: url('Archer-Light.eot');
+    src: url('Archer-Light.eot?#iefix') format('embedded-opentype'),
+        url('Archer-Light.woff2') format('woff2'),
+        url('Archer-Light.woff') format('woff'),
+        url('Archer-Light.ttf') format('truetype'),
+        url('Archer-Light.svg#Archer-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archer';
+    src: url('Archer-Bold.eot');
+    src: url('Archer-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Archer-Bold.woff2') format('woff2'),
+        url('Archer-Bold.woff') format('woff'),
+        url('Archer-Bold.ttf') format('truetype'),
+        url('Archer-Bold.svg#Archer-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archer';
+    src: url('Archer-Medium.eot');
+    src: url('Archer-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Archer-Medium.woff2') format('woff2'),
+        url('Archer-Medium.woff') format('woff'),
+        url('Archer-Medium.ttf') format('truetype'),
+        url('Archer-Medium.svg#Archer-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archer';
+    src: url('Archer-BoldItalic.eot');
+    src: url('Archer-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Archer-BoldItalic.woff2') format('woff2'),
+        url('Archer-BoldItalic.woff') format('woff'),
+        url('Archer-BoldItalic.ttf') format('truetype'),
+        url('Archer-BoldItalic.svg#Archer-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Archer';
+    src: url('Archer-SemiboldItalic.eot');
+    src: url('Archer-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Archer-SemiboldItalic.woff2') format('woff2'),
+        url('Archer-SemiboldItalic.woff') format('woff'),
+        url('Archer-SemiboldItalic.ttf') format('truetype'),
+        url('Archer-SemiboldItalic.svg#Archer-SemiboldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Archer Book';
+    src: url('Archer-BookItalic.eot');
+    src: url('Archer-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('Archer-BookItalic.woff2') format('woff2'),
+        url('Archer-BookItalic.woff') format('woff'),
+        url('Archer-BookItalic.ttf') format('truetype'),
+        url('Archer-BookItalic.svg#Archer-BookItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
