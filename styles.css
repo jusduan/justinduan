@@ -1,3 +1,4 @@
+@import url('https://justinduan.com/css/fonts/stylesheet.css');
 * {
   box-sizing: border-box;
 }
@@ -12,6 +13,7 @@ body {
   line-height: calc(28 / 18);
   color: #323232;
   font-size: 18px;
+  font-family: 'Archer';
 }
 
 a {
